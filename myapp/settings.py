@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-chbtyy5=-%tt-v!trkm=7q4ib7pomk86&+hz7@q!3#vs3q87m-
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://blogly-0jcn.onrender.com/', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['blogly-0jcn.onrender.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
